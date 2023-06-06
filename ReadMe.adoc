@@ -7,3 +7,5 @@
 = Project: Solar Lamp with Lightsensor and Battery Monitor
 
 Instructions can be found in Solarlampe_Christa&Anki.pdf
+
+Instructions for IOT Cloud Monitor Setup can be found in "IOT Cloud Battery Monitor 01", "IOT Cloud Battery Monitor 02" and "IOT Cloud Battery Monitor 03"
