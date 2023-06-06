@@ -4,9 +4,7 @@
 :Revision: version#
 :License: Public Domain
 
-= Project: {Project}
-
-Describe your project
+= Project: Solar Lamp with Lightsensor and Battery Monitor
 
 == Step 1: Installation
 Please describe the steps to install this project.
